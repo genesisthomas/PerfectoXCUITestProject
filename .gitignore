@@ -1,0 +1,9 @@
+build/
+DerivedData/
+.build
+*.ipa
+.DS_Store
+*.generated.swift
+tmp
+.gradle/*
+Perfecto/.gradle/*
